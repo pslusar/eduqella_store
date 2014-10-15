@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2938114768">
+    <data-source source="LOCAL" name="Rails eduqella_store: development" uuid="d665154b-0ca7-42e3-8074-33abda084d1b">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\slusa_000\Downloads\RubyDevKit\home\slusa_000\eduqella_store\db\development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
